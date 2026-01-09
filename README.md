@@ -8,15 +8,6 @@
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-
----
-
-## ![JongKyuHong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongKyuHong&show_icons=true&theme=dracula)
-
----
-
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongKyuHong&layout=compact)
-
 ---
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongi4289)](https://solved.ac/kongi4289)
